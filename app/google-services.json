@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361504023747",
+    "project_id": "repasofirebasefinal",
+    "storage_bucket": "repasofirebasefinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361504023747:android:1c2c92b2a9dff95bceee76",
+        "android_client_info": {
+          "package_name": "com.example.repasofirebasefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361504023747-p4rnhqd28qs52hbnlqppmi140lhk6ror.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6SSWwU-vJZfVUc658oWLOCN8tMYWFs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361504023747-p4rnhqd28qs52hbnlqppmi140lhk6ror.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
